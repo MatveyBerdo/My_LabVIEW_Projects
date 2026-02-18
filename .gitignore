@@ -1,0 +1,50 @@
+# === Системные файлы ===
+*.bak
+*.tmp
+*.~*
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# === LabVIEW временные файлы ===
+*.lvproj.user
+*.lvproj.local
+*.aliases~
+*.aliases.local
+*.lvlib.user
+*.ctl.user
+*.vi~
+*.vit
+*.vib
+
+# === FPGA синтез и симуляция ===
+*.vcd
+*.wcfg
+*.wdb
+*.jou
+*.log
+*.mps
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+*.trce
+*.twr
+*.sdc.bak
+*.cst.bak
+
+# === Скомпилированные файлы ===
+FPGA Bitfiles/
+*.bit
+*.bin
+*.mcs
+
+# === Экспериментальное ===
+_ignore/
+temp/
+build/
+output/
+
+# === Игнорировать папку Port_Test (Only FPGA Test) целиком ===
+Port_Test (Only FPGA Test)/
+**/Port_Test (Only FPGA Test)/
