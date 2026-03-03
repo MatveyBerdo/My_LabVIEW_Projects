@@ -6,6 +6,10 @@ Thumbs.db
 desktop.ini
 .DS_Store
 
+# === Картинки ===
+*.jpg
+*.png
+
 # === LabVIEW временные файлы ===
 *.lvproj.user
 *.lvproj.local
