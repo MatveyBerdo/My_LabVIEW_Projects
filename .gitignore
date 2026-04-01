@@ -49,3 +49,5 @@ output/
 # === Игнорировать папку Port_Test (Only FPGA Test) целиком ===
 Port_Test (Only FPGA Test)/
 **/Port_Test (Only FPGA Test)/
+
+*.pcb

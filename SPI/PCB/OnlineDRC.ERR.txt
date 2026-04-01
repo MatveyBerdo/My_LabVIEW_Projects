@@ -1,0 +1,66 @@
+P-CAD Online DRC Error Log                                  NTK2_AGP_CY15B102Q-SXE_V1.pcb
+
+======================================================================
+
+OnlineDRC.ERR.txt:
+
+NETLIST VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+CLEARANCE VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+WIDTH VIOLATIONS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+23-Mar-26  16:14                                            Page    1
+
